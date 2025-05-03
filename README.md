@@ -1,4 +1,4 @@
-### Project FarmWise: Intelligent Decision Support System for Data-Driven Crop Selection and Management**
+### Project FarmWise: Intelligent Decision Support System for Data-Driven Crop Selection and Management
 
 ### Project Description and Objectives
 
